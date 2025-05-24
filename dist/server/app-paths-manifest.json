@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/test-results/route": "app/api/test-results/route.js",
+  "/page": "app/page.js",
+  "/results/page": "app/results/page.js",
+  "/with-direct/page": "app/with-direct/page.js",
+  "/with-optimized/page": "app/with-optimized/page.js",
+  "/with-standard/page": "app/with-standard/page.js"
+}

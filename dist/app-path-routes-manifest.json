@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/test-results/route": "/api/test-results",
+  "/page": "/",
+  "/results/page": "/results",
+  "/with-direct/page": "/with-direct",
+  "/with-optimized/page": "/with-optimized",
+  "/with-standard/page": "/with-standard"
+}

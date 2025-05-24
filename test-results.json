@@ -1,1 +1,23 @@
-{"standard":null,"optimized":null,"direct":null}
+{
+  "standard": {
+    "time": "0.03",
+    "method": "Standard",
+    "import": "next/cache",
+    "bundleSize": "13.5KB",
+    "timestamp": "2025-05-24T19:45:41.305Z"
+  },
+  "optimized": {
+    "time": "0.04",
+    "method": "Optimized",
+    "import": "@/lib/cache/revalidate",
+    "bundleSize": "1.5KB",
+    "timestamp": "2025-05-24T19:45:33.418Z"
+  },
+  "direct": {
+    "time": "0.03",
+    "method": "Direct API",
+    "import": "next/dist/server/web/spec-extension/revalidate",
+    "bundleSize": "5.2KB",
+    "timestamp": "2025-05-24T19:45:38.388Z"
+  }
+}
